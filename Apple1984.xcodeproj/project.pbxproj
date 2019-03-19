@@ -13,6 +13,7 @@
 		1BC06B902241B39700F6FEC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BC06B8E2241B39700F6FEC6 /* Main.storyboard */; };
 		1BC06B922241B39800F6FEC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BC06B912241B39800F6FEC6 /* Assets.xcassets */; };
 		1BC06B952241B39800F6FEC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BC06B932241B39800F6FEC6 /* LaunchScreen.storyboard */; };
+		1BC06B9D2241B3F700F6FEC6 /* Apple1984.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 1BC06B9C2241B3F700F6FEC6 /* Apple1984.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1BC06B912241B39800F6FEC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BC06B942241B39800F6FEC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BC06B962241B39800F6FEC6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1BC06B9C2241B3F700F6FEC6 /* Apple1984.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Apple1984.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1BC06B872241B39700F6FEC6 /* Apple1984 */ = {
 			isa = PBXGroup;
 			children = (
+				1BC06B9C2241B3F700F6FEC6 /* Apple1984.mp4 */,
 				1BC06B882241B39700F6FEC6 /* AppDelegate.swift */,
 				1BC06B8A2241B39700F6FEC6 /* art.scnassets */,
 				1BC06B8C2241B39700F6FEC6 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1BC06B8B2241B39700F6FEC6 /* art.scnassets in Resources */,
+				1BC06B9D2241B3F700F6FEC6 /* Apple1984.mp4 in Resources */,
 				1BC06B952241B39800F6FEC6 /* LaunchScreen.storyboard in Resources */,
 				1BC06B922241B39800F6FEC6 /* Assets.xcassets in Resources */,
 				1BC06B902241B39700F6FEC6 /* Main.storyboard in Resources */,
